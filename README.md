@@ -11,6 +11,8 @@ A Python tool to find the top 5 dice combinations matching a target mean and opt
 - **GUI Integration**: Comes with a graphical user interface for easy input and visualization.
 - **Executable Available**: Download and run the [`.exe`](https://github.com/maartenlb/dice-distribution-solver/blob/main/dist/gui.exe) file.
 
+![GUI](https://github.com/maartenlb/dice-distribution-solver/blob/main/imgs/dice_img.PNG)
+
 ## Installation
 
 ### Option 1: Run from Source
