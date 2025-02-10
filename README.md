@@ -1,6 +1,6 @@
 # Dice Distribution Solver
 
-A Python tool to find the top 5 dice combinations matching a target mean and optional standard deviation. Perfect for tabletop games, RPGs, and probability modeling. Supports custom dice inputs and comes with a GUI for ease of use.
+A Python tool to find the top 5 dice combinations matching a target mean and optional standard deviation. Perfect for probability modeling and tabletop games. Supports custom dice inputs and comes with a GUI for ease of use.
 
 ## Features
 
